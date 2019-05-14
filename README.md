@@ -3,4 +3,4 @@ Detection of copy-move forgery on PNG files. Based on this article : http://www.
 
 Extra: We added ZigZag search on the image file. 
 
-![] (application.gif)
+! [] ( application.gif )
